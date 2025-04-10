@@ -1,4 +1,4 @@
-# E-Commerce Product Selection & Cart System
+# E-Commerce Sneaker Store Website
 
 ## Overview
 This project is a basic e-commerce web interface that allows users to select products, view them in a slider, choose their desired color and size, add items to the cart, and proceed with checkout. The cart is dynamically updated, and users can adjust the quantity of items in the cart or remove them. A sidebar is used to display the cart, and an inactivity timer automatically closes the sidebar after 5 seconds of inactivity.
