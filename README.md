@@ -19,9 +19,3 @@ This project is a basic e-commerce web interface that allows users to select pro
 - **JavaScript**: Used for dynamic interaction such as updating the cart, product selection, and handling events like adding/removing items.
 - **DOM Manipulation**: To dynamically update the product and cart UI based on user actions.
 - **Event Handling**: To manage user interactions like clicks and selections.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ecommerce-product-selection.git
